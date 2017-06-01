@@ -1,2 +1,2 @@
 # Breadth-first-traversal
-Creates a graph the uses BFS to traverse it
+Creates a graph then uses BFS to traverse it
